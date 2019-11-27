@@ -57,4 +57,4 @@ Start Screen of the Application where Visitor can check in
 ![alt text](https://github.com/gautambhatia2502/Entry-Management-System/blob/master/images/main1.png)
 
 Screen after user click the checkin button
-![Check-Out Screen of the Software](https://github.com/gautambhatia2502/Entry-Management-System/blob/master/images/checkin.PNG)
+![Check-Out Screen of the Software](https://github.com/gautambhatia2502/Entry-Management-System/blob/master/images/checkin.png)
