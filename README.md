@@ -53,7 +53,7 @@ If you want to use your own company "reply to" address. For example, if I want m
 
 ## Some Screenshots of UI
 
-Start Screen of the Application where Visitor can check in
+Start Screen of the Application where Visitor can check in and check out by entering the email address
 ![alt text](https://github.com/gautambhatia2502/Entry-Management-System/blob/master/images/main1.png)
 
 Screen after user click the checkin button
