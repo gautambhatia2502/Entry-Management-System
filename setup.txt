@@ -1,0 +1,31 @@
+**It is assumed that python and Mysql is installed your Laptop.
+**Also Python Package Manager(pip)
+
+
+ 
+1) Install Mysql Connector:
+   Go to the given link and then install it, according to your Laptop OS.
+
+   - https://dev.mysql.com/downloads/connector/python/
+
+***While Configuring Mysql connector via server,change the host name,user,password to hostname,user,password of your PCs MYSQL which you are using it in into the SQLREQ.py file 
+***Also change the database name to your desired database  
+
+2) Import the package installed and then establish the connection with Mysql database.
+
+3) After downloading the whole repository Run the python -m pip install -r requirements.txt to install the libraries required to run the 
+   code.
+
+4) Enter Your G-mail Id and Password for sending Mail to the User(in Mail.py in line no 8,9 for email and password respectively).
+
+5) Make a Twilio account by going to the link below and clicking the signup option and filling the details
+	-https://www.twilio.com/
+
+6) Enter Your account_sid,auth_token,Twilio no in the 12,14,and 21 line respectively in Phone.py file. 
+
+******** what Files Do: **********
+1) Mail.py ->> Sending the Email.
+2) requirements.txt ->> For listing the files to install.
+3) SQLREQ.py ->> For setting Database.
+4) innovaccer.py ->> Main Python script.
+5) Phone.py ->> For setting up the Twilio account and for sending the SMS 
