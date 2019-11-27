@@ -58,3 +58,32 @@ Start Screen of the Application where Visitor can check in and check out by ente
 
 Screen after user click the checkin button
 ![Check-Out Screen of the Software](https://github.com/gautambhatia2502/Entry-Management-System/blob/master/images/checkin.png)
+
+## Database Columns entires:
+
+![alt text](https://github.com/gautambhatia2502/Entry-Management-System/blob/master/images/database.png)
+
+## Corner Test Cases taken care of:
+
+1) If the user tries to checkin with invalid email address ( i.e just a text)
+
+![alt text](https://github.com/gautambhatia2502/Entry-Management-System/blob/master/images/wrong_mail.png)
+
+
+2) If the user tries to checkout without checking in
+
+![alt text](https://github.com/gautambhatia2502/Entry-Management-System/blob/master/images/Checkout_without_checkin.png)
+
+
+
+3) If the user is already checked in and and tries to checkin again
+
+![alt text](https://github.com/gautambhatia2502/Entry-Management-System/blob/master/images/Already_checkedin.png)
+
+
+
+4) The details will not get submitted until all the details are completely filled
+
+
+
+
