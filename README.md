@@ -25,7 +25,7 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the req
 ```bash
 python -m pip install -r requirements.txt
 ```
-
+**Note**-*Please read setup.txt file before running the code.*
 ## API and Language used
 
 * Python
