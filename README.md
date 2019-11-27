@@ -54,6 +54,4 @@ If you want to use your own company "reply to" address. For example, if I want m
 ## Some Screenshots of UI
 
 Start Screen of the Application where Visitor can check in
-![alt text](https://github.com//gautambhatia2502/Entry-Management-System/blob/master/images/main1.PNG)
-Screen after user click the checkin button
-![Check-Out Screen of the Software](https://github.com/gautambhatia2502/Entry-Management-System/master/images/checkin.PNG)
+![alt text](https://github.com/gautambhatia2502/Entry-Management-System/blob/master/images/main1.png)
