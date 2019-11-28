@@ -84,6 +84,8 @@ Screen after user click the checkin button
 
 4) The details will not get submitted until all the details are completely filled
 
-
+## Working video
+Check the following video to see how  the software performs!
+[Watch the video here](https://youtu.be/xIBzrxQ4Xgo)
 
 
