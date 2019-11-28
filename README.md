@@ -92,13 +92,13 @@ Screen after user click the checkin button
 ## Email and SMS Screenshots
 **Email host**
 
-![alt text](https://github.com/gautambhatia2502/Entry-Management-System/blob/master/images/Already_checkedin.png)
+![alt text](https://github.com/gautambhatia2502/Entry-Management-System/blob/master/images/Visitor_info_mail.png)
 
 **SMS host**
 
-![alt text](https://github.com/gautambhatia2502/Entry-Management-System/blob/master/images/Already_checkedin.png)
+![alt text](https://github.com/gautambhatia2502/Entry-Management-System/blob/master/images/SMS.png)
 
 **Email visitor**
 
-![alt text](https://github.com/gautambhatia2502/Entry-Management-System/blob/master/images/Already_checkedin.png)
+![alt text](https://github.com/gautambhatia2502/Entry-Management-System/blob/master/images/Visit_report.png)
 
