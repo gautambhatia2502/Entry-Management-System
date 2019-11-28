@@ -49,7 +49,7 @@ It is the standard GUI library for Python. Python when combined with Tkinter pro
 Twilio is a cloud based service that enables powerful communication between mobile devices, applications, services, and systems.Twilio seeks to rid businesses of the messy telecom hardware by providing a telephony infrastructure web service via a globally available cloud API, allowing web developers to use standard web languages to integrate phone calls, text messages and IP voice communications into their web, mobile and traditional phone applications.
 
 #### SMTP ####
-If you want to use your own company "reply to" address. For example, if I want my messages in ECP to have a reply to address of help@paloalto.com, I can change that in the Mailbox setup but the problem is that those email messages are really coming from help@paloaltosoftware.emailcenterpro.com. The difference between the Reply To address and the real address can cause messages to be detected as spam or spoofed email messages. Setting up an SMTP connection so that ECP sends email through my @paloalto.com mail server will keep this from happening
+If you want to use your own company "reply to" address. For example, if I want my messages to have a reply to address of help@paloalto, I can change that in the Mailbox setup but the problem is that those email messages are really coming from help@paloaltosoftware.emailcenterpro. The difference between the Reply To address and the real address can cause messages to be detected as spam or spoofed email messages. Setting up an SMTP connection so that ECP sends email through my @paloalto.com mail server will keep this from happening
 
 ## Working video
 Check the following video to see how  the software performs!
