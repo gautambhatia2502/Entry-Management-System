@@ -53,7 +53,7 @@ If you want to use your own company "reply to" address. For example, if I want m
 
 ## Working video
 Check the following video to see how  the software performs!
-[Watch the video here](https://youtu.be/xIBzrxQ4Xgo)
+[Watch the video here](https://youtu.be/6aGTIIAzSPE)
 
 ## Some Screenshots of UI
 
