@@ -63,7 +63,7 @@ Start Screen of the Application where Visitor can check in and check out by ente
 Screen after user click the checkin button
 ![Check-Out Screen of the Software](https://github.com/gautambhatia2502/Entry-Management-System/blob/master/images/checkin.png)
 
-## Database Columns entires:
+## Database Columns entries:
 
 ![alt text](https://github.com/gautambhatia2502/Entry-Management-System/blob/master/images/database.png)
 
