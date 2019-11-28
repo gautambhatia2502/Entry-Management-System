@@ -51,6 +51,10 @@ Twilio is a cloud based service that enables powerful communication between mobi
 #### SMPT ####
 If you want to use your own company "reply to" address. For example, if I want my messages in ECP to have a reply to address of help@paloalto.com, I can change that in the Mailbox setup but the problem is that those email messages are really coming from help@paloaltosoftware.emailcenterpro.com. The difference between the Reply To address and the real address can cause messages to be detected as spam or spoofed email messages. Setting up an SMTP connection so that ECP sends email through my @paloalto.com mail server will keep this from happening
 
+## Working video
+Check the following video to see how  the software performs!
+[Watch the video here](https://youtu.be/xIBzrxQ4Xgo)
+
 ## Some Screenshots of UI
 
 Start Screen of the Application where Visitor can check in and check out by entering the email address
@@ -84,8 +88,17 @@ Screen after user click the checkin button
 
 4) The details will not get submitted until all the details are completely filled
 
-## Working video
-Check the following video to see how  the software performs!
-[Watch the video here](https://youtu.be/xIBzrxQ4Xgo)
 
+## Email and SMS Screenshots
+**Email host**
+
+![alt text](https://github.com/gautambhatia2502/Entry-Management-System/blob/master/images/Already_checkedin.png)
+
+**SMS host**
+
+![alt text](https://github.com/gautambhatia2502/Entry-Management-System/blob/master/images/Already_checkedin.png)
+
+**Email visitor**
+
+![alt text](https://github.com/gautambhatia2502/Entry-Management-System/blob/master/images/Already_checkedin.png)
 
