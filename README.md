@@ -111,7 +111,7 @@ The software also has an export data to excel sheet option in the file menu in t
 
 The database will look like:
 
-![alt text](https://github.com/gautambhatia2502/Entry-Management-System/blob/master/images/new%20data.png)
+![alt text](https://github.com/gautambhatia2502/Entry-Management-System/blob/master/images/databasenew.png)
 
 
 # Why this feature was added?
