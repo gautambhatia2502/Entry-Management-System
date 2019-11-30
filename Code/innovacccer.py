@@ -12,7 +12,8 @@ WIDTH2 = 1500
 from Phone import *
 from Mail import *
 from SQLREQ import *
-
+from openpyxl import Workbook
+from database import *
 
 #checking if the user have already checked in and trying to checkin again without checking out first
 #Also checking the validity of the email address entered
@@ -61,6 +62,7 @@ def checkifalradychecked(entry):
 
 #database entry
 #Sending the details to the email and sms functions
+
 def submit(a,b,c,d,e,f,g,top):
 
     checkin_time = datetime.datetime.now()
@@ -77,12 +79,14 @@ def submit(a,b,c,d,e,f,g,top):
 
 
 #closing the window when the task is done for entry of the data
+
 def close_window(top):
     top.destroy()
 
 
 #gui design for the checkin page
 #entry of data
+
 def checkin(entry):
 
     top = tk.Tk()
@@ -133,6 +137,7 @@ def checkin(entry):
     top.mainloop()
 
 #checkout after the validation of the key i.e email address
+
 def checkout(entry):
     #email to the visitor
     answer = tkinter.messagebox.askquestion('Question 1','Checkout Confirmation')
@@ -171,8 +176,15 @@ def checkout(entry):
 
 
 
-#Main GUI for the front page
+#main GUI
+
 root=tk.Tk()
+menu = Menu(root)
+root.config(menu=menu)
+
+subm1 = Menu(menu)
+menu.add_cascade(label="File",menu=subm1)
+subm1.add_command(label="Export data to excel sheet",command=data())
 root.title("Entry Management Software")
 canvas = tk.Canvas(root, height=HEIGHT, width=WIDTH,bg="pink")
 canvas.pack()
@@ -202,4 +214,6 @@ lower_frame.place(relx=0.5,rely=0.15,relwidth=0.75,relheight=0.1,anchor='n')
 
 label = tk.Label(lower_frame,text="Please Enter Your Email Address",bg='pink',font=40)
 label.place(relx=0.15,rely=0.15,relwidth=0.7,relheight=0.5)
+
 root.mainloop()
+
