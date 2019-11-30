@@ -58,7 +58,7 @@ Check the following video to see how  the software performs!
 ## Some Screenshots of UI
 
 Start Screen of the Application where Visitor can check in and check out by entering the email address
-![alt text](https://github.com/gautambhatia2502/Entry-Management-System/blob/master/images/main1.png)
+![alt text](https://github.com/gautambhatia2502/Entry-Management-System/blob/master/images/new%20main.png)
 
 Screen after user click the checkin button
 ![Check-Out Screen of the Software](https://github.com/gautambhatia2502/Entry-Management-System/blob/master/images/checkin.png)
@@ -101,4 +101,19 @@ Screen after user click the checkin button
 **Email visitor**
 
 ![alt text](https://github.com/gautambhatia2502/Entry-Management-System/blob/master/images/Visit_report.png)
+
+
+
+# Additional Feature
+The software also has an export data to excel sheet option in the file menu in the navigation bar.What it does is to export all the data from mysql to MS Excel
+
+![alt text](https://github.com/gautambhatia2502/Entry-Management-System/blob/master/images/New%20Main%202.png)
+
+The database will look like:
+
+![alt text](https://github.com/gautambhatia2502/Entry-Management-System/blob/master/images/new%20data.png)
+
+
+# Why this feature was added?
+One can export the whole visitor database into an excel sheet. This export operation is generally used for taking database backup. We can use this backup later for various purposes. For example, this will help to reuse backup for restoring the database in the future.
 
